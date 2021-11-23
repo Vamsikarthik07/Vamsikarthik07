@@ -17,7 +17,7 @@
 5. yashwanth
 6. hasan
 
-####unordered list
+#### unordered list
 - karthik
 - sahith
 - sathwik
@@ -25,3 +25,7 @@
 - yashwanth
 - hasan
 
+#### nested list
+1. CSE
+    * FIRST YEAR
+    * SECOND YEAR
