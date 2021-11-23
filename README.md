@@ -42,7 +42,7 @@
 <div class="card">
   <img src="https://github.com/Vamsikarthik07/Vamsikarthik07/blob/main/aditya.jpg" style="width:50%">
   <h1>ADITYA</h1>
-  <p class="title">ENGINEERING COLLEGE</p>
+  <p class="title">ADITYA ENGINEERING COLLEGE</p>
   <p>SURAMPALEM</p>
   <p><button>Contact</button></p>
 </div>
