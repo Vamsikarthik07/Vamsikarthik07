@@ -44,7 +44,6 @@
   <h1>ADITYA</h1>
   <p class="title">ADITYA ENGINEERING COLLEGE</p>
   <p>SURAMPALEM</p>
-  <p><button>Contact</button></p>
 </div>
 </body>
 </html>
