@@ -29,3 +29,11 @@
 1. CSE
     * FIRST YEAR
     * SECOND YEAR
+
+
+``` python code
+a=10
+if a%2==0
+print("even number")
+else
+print("odd number")
