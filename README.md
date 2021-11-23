@@ -89,7 +89,7 @@ button:hover, a:hover {
 <h2 style="text-align:center">USER PROFILE CARD</h2>
 
 <div class="card">
-  <img src="C:\Users\admin\Downloads\aditya.jpg" style="width:100%">
+  <img src="https://github.com/Vamsikarthik07/Vamsikarthik07/blob/main/aditya.jpg" style="width:100%">
   <h1>ADITYA</h1>
   <p class="title">ENGINEERING COLLEGE</p>
   <p>SURAMPALEM</p>
