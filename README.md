@@ -40,7 +40,7 @@
 <body>
 <h2 style="text-align:center">USER PROFILE CARD</h2>
 <div class="card">
-  <img src="https://github.com/Vamsikarthik07/Vamsikarthik07/blob/main/aditya.jpg" style="width:500%">
+  <img src="https://github.com/Vamsikarthik07/Vamsikarthik07/blob/main/aditya.jpg" style="width:20%">
   <h1>ADITYA</h1>
   <p class="title">ADITYA ENGINEERING COLLEGE</p>
   <p>SURAMPALEM</p>
