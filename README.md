@@ -38,9 +38,7 @@
 <link rel="stylesheet" href="https://github.com/Vamsikarthik07/Vamsikarthik07/blob/main/aditya.jpg">
 </head>
 <body>
-
 <h2 style="text-align:center">USER PROFILE CARD</h2>
-
 <div class="card">
   <img src="https://github.com/Vamsikarthik07/Vamsikarthik07/blob/main/aditya.jpg" style="width:50%">
   <h1>ADITYA</h1>
@@ -48,6 +46,5 @@
   <p>SURAMPALEM</p>
   <p><button>Contact</button></p>
 </div>
-
 </body>
 </html>
