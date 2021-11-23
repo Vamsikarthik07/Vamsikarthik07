@@ -9,11 +9,11 @@
 |2|yashwanth|503|CSE|
 
 #### list
-#ordered list
-1.karthik
-2.sahith
-3.sathwik
-4.madhu
-5.yashwanth
-6.hasan
+#####ordered list
+1. karthik
+2. sahith
+3. sathwik
+4. madhu
+5. yashwanth
+6. hasan
 
